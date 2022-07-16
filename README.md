@@ -1,2 +1,2 @@
-# amazebdesign
-Website Design + Development for acai bowl company
+# Type A Studios Website
+Website Design + Development prototype design 2
